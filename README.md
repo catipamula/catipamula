@@ -1,6 +1,6 @@
-# 💫 About Me:#
+# 💫 About Me:
 
-🔭 Currently working as  **Python developer with Gen AI** with a focus on automation and intelligent systems.
+🔭 Currently working as  **Python developer with Gen AI** , focus on automation and intelligent systems.
 
 🌱 Continuously expanding my expertise in **Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI**.
 
