@@ -1,4 +1,4 @@
-# 💫 About Me:# 💫 About Me
+# 💫 About Me:#
 
 🔭 Currently working as  **Python developer with Gen AI** with a focus on automation and intelligent systems.
 
