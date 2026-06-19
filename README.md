@@ -6,7 +6,7 @@
 
 👨‍💻 Explore my projects and contributions on GitHub: **https://github.com/catipamula**
 
-💡 Passionate about designing scalable applications and solving real-world problems using **Python, Django, Flask, MySQL, HTML, CSS, JavaScript, OpenAPI and Huggigng Face **.
+💡 Passionate about designing scalable applications and solving real-world problems using **Python, Django, Flask, MySQL, HTML, CSS, JavaScript, OpenAPI, and Hugging Face**.
 
 💬 Feel free to connect with me for discussions on **Python Development, Web Development, AI, and Machine Learning**.
 
